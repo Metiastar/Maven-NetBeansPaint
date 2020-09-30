@@ -1,0 +1,32 @@
+	 Shannon Hollinrake's 
+ NBPaint - 9/21/2020 - Release Notes
+	     Version 4.0
+_______________________________________
+
+New Features:
+	Added Ability to Zoom in and out of canvas
+	Added ability to stamp text to the canvas
+	Added ability to move a selected rectangular area
+	Added ability to select a rectangular area
+	Added custom icons to drawing tools for easier tool selection
+	Added eraser tool
+	Re-added functionality to see shapes/lines as the user is drawing them
+
+Known Issues:
+	Image becomes blurrier every time a selected area is moved, 
+		however the image becomes clearer when undoing
+	Rectangle select draws on the canvas and thus appears in the image
+	Alpha values are not kept when saving
+
+Upcoming Features:
+	Auto-save
+	Polygon Tool
+
+Planned Features:
+	More drawing tools
+	Ability to change draw style
+	Ability to change opacity of drawing tools
+
+Links:
+	Version Playlist: https://www.youtube.com/playlist?list=PLFB52656u2pQbMzLGRZRDxog_RFbjRtLx
+	Github: https://github.com/Metiastar/NetBeans-Paint
